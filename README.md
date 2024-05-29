@@ -1,6 +1,6 @@
 # json_serialization
 
-A new Flutter project.
+Learn how to Generate Json code using build runner
 
 ## Getting Started
 
